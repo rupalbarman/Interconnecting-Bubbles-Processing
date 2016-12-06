@@ -1,6 +1,6 @@
-
-Node node1;
-Node node2;
+/*  Simple dynamic bubbles graphics created with love in Processing
+    Rupal Barman 2016
+*/
 
 Node node[]= new Node[20];
 
